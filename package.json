@@ -2,7 +2,9 @@
   "name": "neef-color-theme",
   "displayName": "neef-color-theme",
   "description": "NeefAI color theme",
-  "version": "0.0.1",
+  "publisher": "NeefColorTheme",
+  "version": "0.0.2",
+  "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.98.0"
   },
