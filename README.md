@@ -22,8 +22,8 @@ To get started with the **Neef Color Theme**, follow these steps:
 
 Here are some previews of the **Neef Color Theme** in action:
 
-![Screenshot 1](assets/1.png)
-![Screenshot 2](assets/2.png)
+![Neef Theme Screenshot](https://github.com/KhwanNon/neef-color-theme/raw/main/assets/1.png)
+![Neef Theme Screenshot](https://github.com/KhwanNon/neef-color-theme/raw/main/assets/2.png)
 
 ## Working with Markdown
 
