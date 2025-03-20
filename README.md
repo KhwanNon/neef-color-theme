@@ -1,21 +1,21 @@
 # Neef Color Theme
 
-A beautifully designed dark mode color theme for developers, crafted to deliver visually appealing and consistent coding experiences.
+A sleek, dark mode color theme for developers, designed with a mysterious, hacker-inspired aesthetic. Crafted to deliver a visually striking and immersive coding experience with a stealthy, cyberpunk vibe.
 
 ## Features
 
-- **High Contrast**: Ensures excellent readability in dark environments.
-- **Stunning Palette**: Curated colors to elevate your coding experience in dark mode.
-- **Cross-Platform**: Compatible with macOS, Windows, and Linux.
+- **High Contrast**: Sharp, bold readability tailored for dark environments, perfect for late-night coding sessions.
+- **Hacker Palette**: A curated selection of deep blacks, neon accents, and anonymized tones to elevate your code with a cool, edgy style.
+- **Cross-Platform**: Seamlessly integrates across macOS, Windows, and Linux, maintaining its stealthy charm everywhere.
 
 ## Installation
 
-Get started with **Neef Color Theme** in two simple steps:
+Unleash the **Neef Color Theme** in two simple steps:
 
 1. **Install**
 
    - Via the Visual Studio Code Marketplace (search for "Neef Color Theme").
-   - Or manually download from [this repository](https://github.com/KhwanNon/neef-color-theme?tab=readme-ov-file).
+   - Or manually download from [this repository](https://github.com/KhwanNon/neef-color-theme).
 
 2. **Activate**
    - Open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
@@ -23,13 +23,13 @@ Get started with **Neef Color Theme** in two simple steps:
 
 ## Screenshots
 
-Preview the **Neef Color Theme** in dark mode:
+Preview the **Neef Color Theme** in its dark, hacker-inspired glory:
 
-| Description | Screenshot                                                                                |
-| ----------- | ----------------------------------------------------------------------------------------- |
-| 1           | ![Screenshot](https://github.com/KhwanNon/neef-color-theme/blob/main/assets/screen-1.png) |
-| 2           | ![Screenshot](https://github.com/KhwanNon/neef-color-theme/blob/main/assets/screen-2.png) |
-| 3           | ![Screenshot](https://github.com/KhwanNon/neef-color-theme/blob/main/assets/screen-3.png) |
+| Description     | Screenshot                                                                                               |
+| --------------- | -------------------------------------------------------------------------------------------------------- |
+| Stealth Mode    | ![Stealth Mode](https://raw.githubusercontent.com/KhwanNon/neef-color-theme/main/assets/screen-1.png)    |
+| Code in Shadows | ![Code in Shadows](https://raw.githubusercontent.com/KhwanNon/neef-color-theme/main/assets/screen-2.png) |
+| Terminal Hack   | ![Terminal Hack](https://raw.githubusercontent.com/KhwanNon/neef-color-theme/main/assets/screen-3.png)   |
 
 ## Markdown Tips
 
@@ -50,4 +50,4 @@ Licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-**Happy Coding!**
+**Hack the Code!**
