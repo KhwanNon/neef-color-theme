@@ -15,7 +15,7 @@ Get started with **Neef Color Theme** in two simple steps:
 1. **Install**
 
    - Via the Visual Studio Code Marketplace (search for "Neef Color Theme").
-   - Or manually download from [this repository](https://github.com/username/repo-name).
+   - Or manually download from [this repository](https://github.com/KhwanNon/neef-color-theme?tab=readme-ov-file).
 
 2. **Activate**
    - Open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
@@ -25,11 +25,11 @@ Get started with **Neef Color Theme** in two simple steps:
 
 Preview the **Neef Color Theme** in dark mode:
 
-| Description       | Screenshot                        |
-| ----------------- | --------------------------------- |
-| Dark Mode Default | ![Dark Mode](assets/screen-1.png) |
-| Code Highlighting | ![Code](assets/screen-2.png)      |
-| Terminal View     | ![Terminal](assets/screen-3.png)  |
+| Description | Screenshot                        |
+| ----------- | --------------------------------- |
+| 1           | ![Dark Mode](assets/screen-1.png) |
+| 2           | ![Code](assets/screen-2.png)      |
+| 3           | ![Terminal](assets/screen-3.png)  |
 
 ## Markdown Tips
 
