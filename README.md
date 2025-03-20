@@ -25,11 +25,11 @@ Get started with **Neef Color Theme** in two simple steps:
 
 Preview the **Neef Color Theme** in dark mode:
 
-| Description | Screenshot                        |
-| ----------- | --------------------------------- |
-| 1           | ![Dark Mode](assets/screen-1.png) |
-| 2           | ![Code](assets/screen-2.png)      |
-| 3           | ![Terminal](assets/screen-3.png)  |
+| Description | Screenshot                                                                                |
+| ----------- | ----------------------------------------------------------------------------------------- |
+| 1           | ![Screenshot](https://github.com/KhwanNon/neef-color-theme/blob/main/assets/screen-1.png) |
+| 2           | ![Screenshot](https://github.com/KhwanNon/neef-color-theme/blob/main/assets/screen-2.png) |
+| 3           | ![Screenshot](https://github.com/KhwanNon/neef-color-theme/blob/main/assets/screen-3.png) |
 
 ## Markdown Tips
 
