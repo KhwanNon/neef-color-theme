@@ -1,48 +1,53 @@
 # Neef Color Theme
 
-A beautifully designed color theme for developers. Perfect for creating visually appealing and consistent coding experiences.
+A beautifully designed dark mode color theme for developers, crafted to deliver visually appealing and consistent coding experiences.
 
 ## Features
 
-- **High Contrast**: Ideal for readability in both light and dark environments.
-- **Beautiful Color Palette**: Carefully selected colors to enhance your coding experience.
-- **Cross-Platform**: Works seamlessly on macOS, Windows, and Linux.
+- **High Contrast**: Ensures excellent readability in dark environments.
+- **Stunning Palette**: Curated colors to elevate your coding experience in dark mode.
+- **Cross-Platform**: Compatible with macOS, Windows, and Linux.
 
-## Getting Started
+## Installation
 
-To get started with the **Neef Color Theme**, follow these steps:
+Get started with **Neef Color Theme** in two simple steps:
 
-1. **Install the Theme**  
-   You can install the theme via the extension marketplace or manually from the repository.
+1. **Install**
 
-2. **Activate the Theme**  
-   Once installed, open **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS), and search for **"Color Theme"**. Select **Neef Color Theme**.
+   - Via the Visual Studio Code Marketplace (search for "Neef Color Theme").
+   - Or manually download from [this repository](https://github.com/username/repo-name).
+
+2. **Activate**
+   - Open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
+   - Search for **"Color Theme"** and select **Neef Color Theme**.
 
 ## Screenshots
 
-Here are some previews of the **Neef Color Theme** in action:
+Preview the **Neef Color Theme** in dark mode:
 
-![Neef Theme Screenshot](screen-1.png)
-![Neef Theme Screenshot](screen-2.png)
-![Neef Theme Screenshot](screen-3.png)
+| Description       | Screenshot                        |
+| ----------------- | --------------------------------- |
+| Dark Mode Default | ![Dark Mode](assets/screen-1.png) |
+| Code Highlighting | ![Code](assets/screen-2.png)      |
+| Terminal View     | ![Terminal](assets/screen-3.png)  |
 
-## Working with Markdown
+## Markdown Tips
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Enhance your README editing in Visual Studio Code with these shortcuts:
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Split Editor**: `Cmd+\` (macOS) or `Ctrl+\` (Windows/Linux).
+- **Toggle Preview**: `Shift+Cmd+V` (macOS) or `Shift+Ctrl+V` (Windows/Linux).
+- **Markdown Snippets**: Press `Ctrl+Space` for suggestions.
 
-## For More Information
+## Resources
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [VS Code Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Guide](https://help.github.com/articles/markdown-basics/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-**Enjoy!**
+**Happy Coding!**
