@@ -3,7 +3,7 @@
   "displayName": "neef-color-theme",
   "description": "NeefAI color theme",
   "publisher": "NeefColorTheme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.98.0"
