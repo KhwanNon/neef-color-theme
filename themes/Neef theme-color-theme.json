@@ -4,13 +4,13 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
-      "foreground": "#00cc00"
+      "foreground": "#9B00FF" // ม่วงเข้ม
     },
     "variable.constant": {
-      "foreground": "#06D001"
+      "foreground": "#06D001" // เขียว
     },
     "variable.defaultLibrary": {
-      "foreground": "#909090"
+      "foreground": "#9B00FF" // ฟ้าไซเบอร์
     }
   },
   "tokenColors": [
@@ -18,7 +18,7 @@
       "name": "Edit foreground (e.g., (), {}, ;)",
       "scope": ["punctuation", "meta.brace", "meta.delimiter"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -37,14 +37,14 @@
       "name": "Keyword",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#909090"
+        "foreground": "#9B00FF"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#00cc00"
+        "foreground": "#9B00FF"
       }
     },
     {
@@ -56,14 +56,14 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#00cc00"
+        "foreground": "#9B00FF" // เปลี่ยนจาก #FF0040 เป็นม่วงเข้มโทนเย็น
       }
     },
     {
       "name": "Function, Method",
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#909090"
+        "foreground": "#9B00FF"
       }
     },
     {
@@ -77,7 +77,7 @@
       "name": "Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -91,7 +91,7 @@
       "name": "File names (e.g., in explorer)",
       "scope": ["entity.name.filename"],
       "settings": {
-        "foreground": "#06D001"
+        "foreground": "#9B00FF"
       }
     }
   ],
